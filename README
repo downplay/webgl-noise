@@ -23,3 +23,7 @@ on typical current desktop GPUs, they are more scalable to
 massive parallelism and much more convenient to use, and
 they can make good use of unused ALU resources when run
 concurrently with a typical texture-intensive rendering.
+
+These are the original noise functions as maintained by Stefan,
+but packaged on npm to allow easy inclusion in your web
+projects via webpack.
